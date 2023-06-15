@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+header {
+    width: 100%;
+    padding-top: 20px;
+    background-color: #F191AC;
+    font-family: playball; 
+}
+.heading {
+    color: #F2C1BD;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 5px;
+    text-shadow: #df687e 2px 2px,white -3px 2px 3px;
+}
+.heading h1{
+    text-align: center;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: #e98a92;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.nav-bar a{
+    color: #D95F76;
+    text-shadow: #F2c1bd -1px -1px 2px;
+    font-size: 20px;
+    font-family:Big+Shoulders;
+}
+.nav-bar .active{
+    color: #F2C1BD;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #f1eced;
+}
+
+a:active {
+    text-decoration: none;
+}
+footer{
+    font-size: 20px;
+    text-align: center;
+    font-size: 15px;
+    background-color: #D95F76;
+    position: fixed;
+    bottom: 0%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    color: #F2C1BD;
+
+}
+body{
+    background-color: #F2C1BD;
+}
+#sweets{
+    text-align: center;
+    color: #e26179;
+    font-family:Playball;
+    font-size: 35px;
+    margin-top: 20px;
+    text-shadow: #F191AC 3px 3px, #F2C1BD 3px 2px 2px;
+}
+.chocolate{
+    float: left;
+    margin-left: 150px;
+    padding: 20px;
+    width: 25%;
+    text-align: center;
+}
+.vanilla{
+    float: left;
+        margin-left: -385px;
+        margin-bottom: 20px;
+        padding: 50px;
+        width: 25%;
+        margin-top: 300px;
+        text-align: center;
+
+}
+.strawberry{
+    float: right;
+    margin-right: 150px;
+    padding: 30px;
+    text-align: center;
+    width: 25%;
+}
+.strawberry2{
+    float: right;
+    margin-right: 150px;
+    padding: 20px;
+    width: 25%;
+    margin-bottom: 0px;
+    text-align: center
+}
+#straw2{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, white 2px 0px 2px;
+}
+#straw1{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, #f1eced 3px 1px;
+}
+#choco1{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, #f1eced 3px 1px;
+}
+#choco2{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, white 2px 0px 2px;
+}
+#vanilla1{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, #f1eced 3px 1px;
+}
+#vanilla2{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, white 2px 0px 2px;
+}
+#white1{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, #f1eced 3px 1px;
+}
+#white2{
+text-align: center;
+    color: #D95F76;
+    font-family: Playball;
+    font-size: 20px;
+    margin-top: 20px;
+    text-shadow: black -2px 2px 1px, white 2px 0px 2px;
+}
